@@ -4,6 +4,7 @@ body{
 }
 .stay-focused-initialization{
     display: flex;
+    margin-left: 8%;
 }
 .half-partision{
     width: 50%;
@@ -12,6 +13,10 @@ body{
 .half-partision img{
     width: 55%;
     margin-top: -25px;
+    margin-left: 5%;
+}
+#small-row{
+    padding-top: 5%;
 }
 h1{
     font-size: 50px;
@@ -35,6 +40,7 @@ h1{
 }
 .definition-of-stay-focus{
     font-family: 'Titillium Web', sans-serif;
+    margin-bottom: 5%;
 }
 
 
@@ -73,6 +79,9 @@ h1{
     margin-left: 20px;
     margin-right: 100px;
 }
+.space{
+    margin-bottom: 5%;
+}
 
 
 .section-3{
@@ -81,7 +90,7 @@ h1{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 15%;
-    background-position-x: 6%;
+    background-position-x: 9%;
     background-position-y: 15%;
 }
 #half-partision-3rd-section1 img{
@@ -103,7 +112,7 @@ h1{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 15%;
-    background-position-x: 92%;
+    background-position-x: 95%;
     background-position-y: 150%;
 
 }
@@ -113,4 +122,48 @@ h1{
 #half-partision-4rd-section2 img{
     width: 70%;
     height: auto;
+}
+
+
+.about-siful-bappy{
+    display: flex;
+    margin-top: 3%;
+}
+.about-bappy-both-txt-and-imag{
+    width: 50%;
+    padding-left: 3%;
+    margin-left: 5%;
+}
+.about-siful-bappy img{
+    width: 75%;
+    height: auto;
+    padding-left: 10%;
+    padding-top: 10%;
+    border-radius: 20px;
+    margin-top: 20%;
+    margin-left: -10%;
+}
+.line-discription-on-bappy{
+    font-family: 'Titillium Web', sans-serif;
+    text-align: justify;
+    
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+}
+#mission-2022-txt{
+    font-family: 'The Nautigal', cursive;
+}
+footer{
+    background-color: black;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 3%;
+}
+.footer-color-white{
+    color: white;
+}
+.footer-color-red{
+    color: rgba(255, 0, 0, 0.884);
 }
