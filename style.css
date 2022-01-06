@@ -113,7 +113,8 @@ h1{
     background-repeat: no-repeat;
     background-size: 15%;
     background-position-x: 95%;
-    background-position-y: 150%;
+    background-position-y: 100%;
+    padding-bottom: 5%;
 
 }
 #half-partision-4rd-section1{
@@ -127,7 +128,8 @@ h1{
 
 .about-siful-bappy{
     display: flex;
-    margin-top: 3%;
+    margin-top: -5%;
+    
 }
 .about-bappy-both-txt-and-imag{
     width: 50%;
