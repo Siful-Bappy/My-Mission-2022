@@ -95,3 +95,22 @@ h1{
     margin-left: -15%;
     margin-right: 5%;
 }
+
+
+.section-4{
+    display: flex;
+    margin-top: 7%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position-x: 92%;
+    background-position-y: 150%;
+
+}
+#half-partision-4rd-section1{
+    margin-left: 8%;
+}
+#half-partision-4rd-section2 img{
+    width: 70%;
+    height: auto;
+}
